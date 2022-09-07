@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Rosas
-==================================================================================================================================
+Hi 👋 My name is Adam Rosas
+===========================
 
 Comp Sci Major | Aspring Software Engineer
 ------------------------------------------
@@ -8,6 +8,7 @@ I am a student at California State University, Dominguez Hills studying computer
 
 * 🌍  I'm based in Los Angeles, CA
 * 🧠  I'm learning Python
+* ⚡  Actively Seeking Summer Internship 2023
 
 ### Skills
 
