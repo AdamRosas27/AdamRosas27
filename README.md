@@ -4,7 +4,19 @@ Hi 👋 My name is Adam Rosas
 Comp Sci Major | Aspring Software Engineer
 ------------------------------------------
 
-I am a student at California State University, Dominguez Hills studying computer science with an interest in software development. I am driven by finding solutions to challenging problems. For as long as I can remember, I have always had a passion for technology and logic based games. I enjoy learning new programming languages for side projects. I am currently programming most frequently with python. In addition, I enjoy practicing my skills on websites such as CodeWars, HackerRank, and LeetCode. Outside of programming, I enjoy staying active and playing with my dog.
+👋🏽 Hello there, my name is Adam Rosas!
+
+🎯 Actively seeking summer internship 2023
+
+🎓 Student pursuing a Bachelor's of Science in Computer Science. (Dec 2024)
+
+📍 Los Angeles Native, with a passion for problem solving and backend engineering.
+
+📞 Currently working as an IT Call Center Assistant at California State University, Dominguez Hills.
+
+💻 I hope to one day work as a software engineer for a medium-large sized tech company.
+
+🐕 In my free time, you can find me playing with my dog!
 
 * 🌍  I'm based in Los Angeles, CA
 * 🧠  I'm learning Python
