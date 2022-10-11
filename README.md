@@ -17,10 +17,8 @@ Comp Sci Major | Aspring Software Engineer
 💻 I hope to one day work as a software engineer for a medium-large sized tech company.
 
 🐕 In my free time, you can find me playing with my dog!
-
-* 🌍  I'm based in Los Angeles, CA
-* 🧠  I'm learning Python
-* ⚡  Actively Seeking Summer Internship 2023
+ 
+🧠 Currently learning Python 🐍
 
 ### Skills
 
